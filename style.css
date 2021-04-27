@@ -4,12 +4,14 @@
     font-weight: bold;
     border: unset;
     padding: 1em 2em;
+    transition: box-shadow .3s ease-in-out;
 }
 
 .btn-custom:hover {
     box-shadow: 0 10px 30px rgb(0 0 0 / 40%);
     background: linear-gradient(145deg ,#F05A28 0,#EC008C 100%);
     color: #fff;
+    transition: box-shadow .3s ease-in-out;
 }
 
 .navbar-brand>img {
