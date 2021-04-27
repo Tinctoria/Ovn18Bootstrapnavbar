@@ -1,0 +1,21 @@
+.btn-custom {
+    background-color: #EC008C;
+    color: white;
+    font-weight: bold;
+    border: unset;
+    padding: 1em 2em;
+}
+
+.btn-custom:hover {
+    box-shadow: 0 10px 30px rgb(0 0 0 / 40%);
+    background: linear-gradient(145deg ,#F05A28 0,#EC008C 100%);
+    color: #fff;
+}
+
+.navbar-brand>img {
+    width: 50%;
+}
+
+.nav-link-custom:hover {
+    text-decoration: underline;
+}
